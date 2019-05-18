@@ -18,6 +18,7 @@
        this.name = name;
        this.gender = gender;
        this.weight = weight;
+       this.apple ="";
        this.Say = function () {
            console.log("Xin chào tôi là " + this.name+" "+"có giới tính là"+" "+this.gender);
        };
@@ -26,7 +27,8 @@
        console.log("cân nặng của"+" "+this.name+" "+"sau khi ăn 1 miếng táo"+"là"+" "+this.weight);
        };
        this.CheckWeightOfApple =function (tao) {
-           console.log( tao.getWeight());
+           this.apple=tao;
+           return this.apple.getWeight();
        }
    };
 
@@ -53,7 +55,7 @@
        }
    }
 
-    Adam.CheckWeightOfApple(tao)
+    console.log(Adam.CheckWeightOfApple(tao));
 </script>
 </body>
 </html>

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b033888-b891-4c89-ac14-3dc8e766dfe1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Adam &amp;&amp; EVA.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Phát triển game lái xe/.idea/Phát triển game lái xe.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Phát triển game lái xe/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Phát triển game lái xe/.idea/modules.xml" afterDir="false" />
@@ -11,6 +10,7 @@
       <change afterPath="$PROJECT_DIR$/../Phát triển game lái xe/Phát triển game lái xe.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Game đơn giản - di chuyển đối tượng/[Bài tập] Game đơn giản - di chuyển đối tượng.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Game đơn giản - di chuyển đối tượng/[Bài tập] Game đơn giản - di chuyển đối tượng.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Phát triển game lái xe/[Bài tập] Phát triển game lái xe.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả Temperature/.idea/[Bài tập] Xây dựng lớp mô tả Temperature.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả Temperature/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả Temperature/.idea/modules.xml" afterDir="false" />
@@ -45,6 +45,9 @@
       <change afterPath="$PROJECT_DIR$/../công tắc và bóng đèn/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../công tắc và bóng đèn/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../công tắc và bóng đèn/công tắc và bóng đèn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adam &amp;&amp; EVA.html" beforeDir="false" afterPath="$PROJECT_DIR$/Adam &amp;&amp; EVA.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chuyển đổi giữa feet và meter/Chuyển đổi giữa feet và meter.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Chuyển đổi giữa feet và meter/Chuyển đổi giữa feet và meter.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Hàm kiểm tra số nguyên tố/Hàm kiểm tra số nguyên tố.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Hàm kiểm tra số nguyên tố/Hàm kiểm tra số nguyên tố.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kiểm tra từ đối xứng/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kiểm tra từ đối xứng/.idea/workspace.xml" afterDir="false" />
@@ -144,8 +147,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Adam &amp;&amp; EVA.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+            <state relative-caret-position="483">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -160,7 +163,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -191,6 +194,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,13 +206,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả Temperature" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả điện thoại" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -236,18 +239,20 @@
       <updated>1557929072790</updated>
       <workItem from="1557929075208" duration="1959000" />
       <workItem from="1557931043922" duration="7289000" />
-      <workItem from="1557989179181" duration="3685000" />
+      <workItem from="1557989179181" duration="3788000" />
+      <workItem from="1558082393819" duration="645000" />
+      <workItem from="1558179141233" duration="1307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12933000" />
+    <option name="totallyTimeSpent" value="14988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960339" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -259,7 +264,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3299435" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -272,8 +277,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Adam &amp;&amp; EVA.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        <state relative-caret-position="483">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
         </state>
       </provider>
     </entry>
